@@ -11,12 +11,12 @@ import (
 var db *sqlx.DB
 
 func Init() (err error) {
-	dsn := fmt.Sprintf("%s:%s@tcp(%s:%d)/%s?charset=utf8mb4&preseTime=True",
+	dsn := fmt.Sprintf("%s:%s@tcp(%s:%d)/%s?charset=utf8mb4&parseTime=True",
 		viper.GetString("mysql.username"),
 		viper.GetString("mysql.password"),
 		viper.GetString("mysql.host"),
 		viper.GetInt("mysql.port"),
-		viper.GetInt("mysql.dbname"),
+		viper.GetString("mysql.dbname"),
 	)
 
 	db, err = sqlx.Connect("mysql", dsn)
