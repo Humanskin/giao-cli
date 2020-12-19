@@ -1,0 +1,50 @@
+{"level":"DEBUG","time":"2020-12-14T00:08:55.583+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-14T00:13:49.756+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-14T00:14:24.044+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-14T00:46:16.341+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-14T00:46:21.465+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-14T00:47:50.724+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-14T00:48:45.658+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-19T14:17:09.248+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-19T14:19:25.460+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-19T14:27:03.885+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-19T14:27:29.317+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-19T16:25:52.477+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-19T16:28:19.831+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-19T16:52:49.487+0800","caller":"giao-cli/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T16:57:30.027+0800","caller":"giao-cli/main.go:71","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-19T16:57:30.027+0800","caller":"giao-cli/main.go:80","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:30:30.795+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-19T17:31:05.328+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-19T17:31:12.447+0800","caller":"giao-cli/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:31:12.483+0800","caller":"giao-cli/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:32:09.737+0800","caller":"giao-cli/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:32:09.769+0800","caller":"giao-cli/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:32:53.379+0800","caller":"giao-cli/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:32:53.412+0800","caller":"giao-cli/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:33:10.583+0800","caller":"giao-cli/main.go:37","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:33:22.741+0800","caller":"giao-cli/main.go:73","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-19T17:33:22.741+0800","caller":"giao-cli/main.go:82","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:34:53.229+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:34:53.263+0800","caller":"giao-cli/main.go:80","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:35:11.033+0800","caller":"giao-cli/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:35:11.067+0800","caller":"giao-cli/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:36:14.780+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:36:14.812+0800","caller":"giao-cli/main.go:78","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:36:26.528+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:36:26.563+0800","caller":"giao-cli/main.go:79","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:37:36.525+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:37:38.676+0800","caller":"giao-cli/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-19T17:37:38.676+0800","caller":"giao-cli/main.go:79","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:38:04.565+0800","caller":"giao-cli/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2020-12-19T17:38:15.337+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:38:48.452+0800","caller":"giao-cli/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-19T17:38:48.452+0800","caller":"giao-cli/main.go:79","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:38:56.101+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:41:13.225+0800","caller":"giao-cli/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-19T17:41:13.225+0800","caller":"giao-cli/main.go:79","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T17:41:15.480+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
+{"level":"ERROR","time":"2020-12-19T17:41:17.509+0800","caller":"mysql/mysql.go:24","msg":"connect BD failed","error":"dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"DEBUG","time":"2020-12-19T17:41:58.123+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T17:43:33.920+0800","caller":"giao-cli/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-19T17:43:33.920+0800","caller":"giao-cli/main.go:79","msg":"Server exiting"}

@@ -15,8 +15,6 @@ import (
 	"time"
 )
 
-var Logger *zap.Logger
-
 func Init() (err error) {
 	writeSyncer := getLogWrite(
 		viper.GetString("log.filename"),
@@ -126,5 +124,6 @@ func GinRecovery(stack bool) gin.HandlerFunc {
 				c.AbortWithStatus(http.StatusInternalServerError)
 			}
 		}()
+		c.Next()
 	}
 }
