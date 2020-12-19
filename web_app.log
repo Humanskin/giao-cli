@@ -48,3 +48,21 @@
 {"level":"DEBUG","time":"2020-12-19T17:41:58.123+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
 {"level":"INFO","time":"2020-12-19T17:43:33.920+0800","caller":"giao-cli/main.go:70","msg":"Shutdown Server ..."}
 {"level":"INFO","time":"2020-12-19T17:43:33.920+0800","caller":"giao-cli/main.go:79","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T18:01:03.330+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T18:01:39.664+0800","caller":"giao-cli/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-19T18:01:39.664+0800","caller":"giao-cli/main.go:79","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T18:01:58.578+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T18:02:49.179+0800","caller":"giao-cli/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-19T18:02:49.179+0800","caller":"giao-cli/main.go:79","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T18:03:03.332+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T18:03:20.509+0800","caller":"giao-cli/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-19T18:03:20.509+0800","caller":"giao-cli/main.go:79","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T18:05:42.210+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T18:06:14.970+0800","caller":"giao-cli/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-19T18:06:14.970+0800","caller":"giao-cli/main.go:79","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-12-19T18:06:28.425+0800","caller":"giao-cli/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2020-12-19T18:06:31.264+0800","caller":"logger/logger.go:72","msg":"/in","status":200,"method":"GET","path":"/in","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66","errors":"","cost":0}
+{"level":"INFO","time":"2020-12-19T18:06:31.541+0800","caller":"logger/logger.go:72","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66","errors":"","cost":0}
+{"level":"INFO","time":"2020-12-19T18:06:34.084+0800","caller":"logger/logger.go:72","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66","errors":"","cost":0}
+{"level":"INFO","time":"2020-12-19T18:07:32.304+0800","caller":"giao-cli/main.go:70","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-19T18:07:32.304+0800","caller":"giao-cli/main.go:79","msg":"Server exiting"}
