@@ -1,6 +1,6 @@
 #  Giao-Cli
 
-> 一个用作联系的 go web 脚手架（Gin）
+> 一个用作练习的 go web 脚手架（Gin）
 > 基于 go modules
 
 - [x] 1. 加载配置			    		 settings
